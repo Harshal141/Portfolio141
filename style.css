@@ -64,6 +64,9 @@ color: #7843E6;
 }
 
 /* About Box */
+.about-box p{
+    padding: 0 35px 0 35px;
+}
 h1{
     font-size: 4vw;
     letter-spacing: 1.5px;
@@ -135,7 +138,7 @@ h1{
     background: #ffffff;
 }
 .back{
-background: #cedce7;
+    background: #7843E6;
 }
 
 .front:after{
